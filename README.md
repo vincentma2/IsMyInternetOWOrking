@@ -1,4 +1,4 @@
-# Is My Internet Working?
+# Is My Internet OWOrking?
 
 Official source code for the website [Is My Internet Working?](https://ismyinternetworking.com/). Now powered by Node.js.
 
