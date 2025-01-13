@@ -55,7 +55,7 @@ function runTest() {
         infobox.location(null);
 
     }).then(() => {
-        var test_status = test_success ? "YES!" : "NO!";
+        var test_status = test_success ? ":3" : "NO :(";
         var test_color = test_success ? "green" : "red";
 
         for (var i = 0; i < test_status_nodes.length; ++i) {
